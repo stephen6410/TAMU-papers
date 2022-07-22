@@ -1,6 +1,6 @@
 # TAMU-papers
 
-I wrote the following papers as assignments for my math classes at Texas A&M:
+I wrote the following papers as assignments for my math classes at Texas A&M. Please abide by the Aggie Honor Code!
 
 -----
 **MATH 467 "Non-Euclidean Geometry"**
